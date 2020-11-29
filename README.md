@@ -1,7 +1,6 @@
 ### Hi there, I'm Idan Mor👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=sidanmor&color=yellow)</div>
 
 ## I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja :muscle:
-:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
 
 ### Technology Stack:
 
