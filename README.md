@@ -41,7 +41,7 @@
 - [Spartan Programming — When Namogoo Conquered Sparta](https://sidanmor.com/when-namogoo-conquered-sparta-a7e62dec743b)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://sidanmor.com/)
+:point_right: :point_right: :point_right:    [more blog posts...](https://sidanmor.com/)
 
 --- 
 
