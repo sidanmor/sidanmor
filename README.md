@@ -1,6 +1,6 @@
 ## Hi there, I'm Idan Mor👋
 
-## I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
+## I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja 
 
 ![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 ### Technology Stack:
