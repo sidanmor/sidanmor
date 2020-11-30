@@ -1,6 +1,6 @@
-## Hi there, I'm Idan Mor👋
+## Hi there, I'm Idan Mor (sidanmor) 👋👋👋
 
-## I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja !
+## I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja!
 
 ![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 ### Technology Stack:
@@ -19,11 +19,8 @@
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 
+<br />
 <br />
 
 ### Connect with me 
@@ -36,7 +33,7 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+### :notebook: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Develop your code inside a Docker Container using your favorite IDE](https://sidanmor.com/run-and-debug-code-inside-docker-container-locally-5b121cfc858a)
