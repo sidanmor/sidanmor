@@ -1,10 +1,14 @@
-### Hi there, I'm Idan Mor👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=sidanmor&color=yellow)</div>
+## Hi there, I'm Idan Mor👋
 
-## I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja :muscle:
+## I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 
 ![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 ### Technology Stack:
 
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
@@ -25,9 +29,10 @@
 ### Connect with me 
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<br />
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
-
+<br />
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
 <br />
 
@@ -41,7 +46,7 @@
 - [Spartan Programming — When Namogoo Conquered Sparta](https://sidanmor.com/when-namogoo-conquered-sparta-a7e62dec743b)
 <!-- BLOG-POST-LIST:END -->
 
-:point_right: :point_right: :point_right:    [more blog posts...](https://sidanmor.com/)
+### :point_right: :point_right: :point_right:    [more blog posts...](https://sidanmor.com/)
 
 --- 
 
