@@ -1,37 +1,50 @@
-## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## My name is Idan Mor (sidanmor) and I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja!
 
-![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
-### Technology Stack:
+<h1 align='center'>
+  Hi there <a href="https://sidanmor.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Idan Mor (sidanmor)
+</h1>
 
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
+<h3 align='center'>
+  A Full-Stack Team Leader, 
+</h3>
+<h3 align='center'>
+  a Senior Full-Stack Software Engineer,
+</h3>
+<h3 align='center'>
+  and a Javascript Ninja! 
+</h3>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+</p>
+
+<p align='center'>
+  <a href="https://sidanmor.com/">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/1118252/sidanmor">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/idan-mor/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="450">
+</p>
+  
+  <h3 align='center'>
+  Technology Stack:
+  </h3>
 
 <br />
 <br />
 
-### Connect with me 
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-<br />
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
-<br />
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<br />
-<br />
+<p align='center'>
+  How to reach me: <a href='mailto:sidanmor@gmail.com'>sidanmor@gmail.com</a>
+</p>
 
 ### :notebook: Latest Blog Posts
 
