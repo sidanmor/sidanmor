@@ -1,6 +1,6 @@
-## Hi there, I'm Idan Mor (sidanmor) 👋👋👋
+## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja!
+## My name is Idan Mor (sidanmor) and I'm a Full-Stack Team Leader, Senior Full-Stack Software Engineer and Javascript Ninja!
 
 ![](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 ### Technology Stack:
