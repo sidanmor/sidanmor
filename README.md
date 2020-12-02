@@ -45,8 +45,8 @@
   <br><br>
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" />
   <br/><br/>
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="40">
   <br><br>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -77,11 +77,11 @@
 <h2 align='center'>
   Education:
 </h2>
-<h4 align='center'>
+<h3 align='center'>
   B.Sc in Software Engineering at the Computer Science Faculty,<br/>
   Technion - Machon Technologi Le' Israel - haifa, Israel<br/>
   2009 - 2013
-</h4>
+</h3>
 <br/>
 <br/>
 <p align='center'>
