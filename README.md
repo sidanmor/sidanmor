@@ -114,9 +114,9 @@
 
 <br/>
 
-<h4 align='center'>
+<h3 align='center'>
   <a href="https://sidanmor.com">more blog posts...</a>
-</h4>
+</h3>
 
 <br/>
 <br/>
