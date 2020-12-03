@@ -91,6 +91,10 @@
 </h2>
 
 <h6 align='center'>
+  <a href="https://sidanmor.com/when-namogoo-conquered-sparta-a7e62dec743b">Spartan Programming — When Namogoo Conquered Sparta</a>
+</h6>
+
+<h6 align='center'>
   <a href="https://sidanmor.com/run-and-debug-code-inside-docker-container-locally-5b121cfc858a">Develop your code inside a Docker Container using your favorite IDE</a>
 </h6>
 
@@ -106,10 +110,6 @@
 
 <h6 align='center'>
   <a href="https://sidanmor.com/javascript-performance-test-d09bde3c2976">Javascript Performance Test</a>
-</h6>
-
-<h6 align='center'>
-  <a href="https://sidanmor.com/when-namogoo-conquered-sparta-a7e62dec743b">Spartan Programming — When Namogoo Conquered Sparta</a>
 </h6>
 
 <br/>
