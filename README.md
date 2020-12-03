@@ -35,7 +35,7 @@
   <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="450">
 </p>
   
-  <h2 align='center'>
+  <h2 align='center' style="text-decoration: underline;">
   Technology Stack:
   </h2>
   <p align="center">
