@@ -35,9 +35,9 @@
   <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="450">
 </p>
   
-  <h2 align='center' style="text-decoration: underline;">
+  <h3 align='center'>
   Technology Stack:
-  </h2>
+  </h3>
   <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
@@ -74,9 +74,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<h2 align='center'>
+<h3 align='center'>
   Education:
-</h2>
+</h3>
 <h3 align='center'>
   B.Sc in Software Engineering at the Computer Science Faculty,<br/>
   Technion - Machon Technologi Le' Israel - haifa, Israel<br/>
@@ -86,9 +86,9 @@
 <br/>
 
 
-<h2 align='center'>
+<h3 align='center'>
   Latest Blog Posts:
-</h2>
+</h3>
 
 <h6 align='center'>
   <a href="https://sidanmor.com/when-namogoo-conquered-sparta-a7e62dec743b">Spartan Programming — When Namogoo Conquered Sparta</a>
