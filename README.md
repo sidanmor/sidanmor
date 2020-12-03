@@ -97,27 +97,27 @@
   Latest Blog Posts:
 </h3>
 
-<h6 align='center'>
+<h5 align='center'>
   <a href="https://sidanmor.com/when-namogoo-conquered-sparta-a7e62dec743b">Spartan Programming — When Namogoo Conquered Sparta</a>
-</h6>
+</h5>
 
-<h6 align='center'>
+<h5 align='center'>
   <a href="https://sidanmor.com/run-and-debug-code-inside-docker-container-locally-5b121cfc858a">Develop your code inside a Docker Container using your favorite IDE</a>
-</h6>
+</h5>
 
-<h6 align='center'>
+<h5 align='center'>
   <a href="https://sidanmor.com/how-browser-extensions-routinely-bypass-a-csp-content-security-policy-2d482767a672">How Browser Extensions Routinely Bypass a CSP (Content Security Policy)</a>
-</h6>
+</h5>
 
 
-<h6 align='center'>
+<h5 align='center'>
   <a href="https://sidanmor.com/how-to-measure-cpu-time-via-javascript-43ca49382abf">Using JavaScript to Measure System Time</a>
-</h6>
+</h5>
 
 
-<h6 align='center'>
+<h5 align='center'>
   <a href="https://sidanmor.com/javascript-performance-test-d09bde3c2976">Javascript Performance Test</a>
-</h6>
+</h5>
 
 <br/>
 
