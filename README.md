@@ -38,7 +38,6 @@
   <br/>
 <br/>
 
-
   <h3 align='center'>
   Technology Stack:
   </h3>
@@ -92,6 +91,9 @@
 <br/>
 <br/>
 
+<p align='center'>
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=1118252&layout=xxxcompact">
+</p>
 
 <h3 align='center'>
   Latest Blog Posts:
