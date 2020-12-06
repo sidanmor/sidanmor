@@ -5,13 +5,13 @@
 </h1>
 
 <h3 align='center'>
-  A Full-Stack Team Leader, 
+  Full-Stack Team Leader, 
 </h3>
 <h3 align='center'>
-  a Senior Full-Stack Software Engineer,
+  Senior Full-Stack Software Engineer,
 </h3>
 <h3 align='center'>
-  and a Javascript Ninja! 
+  and Javascript Ninja! 
 </h3>
 
 <p align="center">
