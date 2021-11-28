@@ -5,13 +5,7 @@
 </h1>
 
 <h3 align='center'>
-  Full-Stack Team Leader, 
-</h3>
-<h3 align='center'>
-  Senior Full-Stack Software Engineer,
-</h3>
-<h3 align='center'>
-  and Javascript Ninja! 
+  Software Engineering Team Lead and Core Javascript SDK Expert
 </h3>
 
 <p align="center">
