@@ -74,6 +74,19 @@
 <br/>
 <br/>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/a9ab10f7-fb74-4b43-81cd-b2a1f855fbc5/public_url">
+    <img src="https://images.credly.com/size/680x680/images/c7e9e836-0b6f-410d-b5fb-48297aa9c310/image.png" width="240">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.credly.com/badges/12d78629-f448-44c4-b9c9-ca620b4d456f/public_url">
+    <img src="https://images.credly.com/size/680x680/images/552558a8-c905-4a43-ac5a-348657030cc9/image.png" width="240">
+  </a>&nbsp;&nbsp;
+<p/>
+
+<br/>
+<br/>
+
 <h3 align='center'>
   Education:
 </h3>
